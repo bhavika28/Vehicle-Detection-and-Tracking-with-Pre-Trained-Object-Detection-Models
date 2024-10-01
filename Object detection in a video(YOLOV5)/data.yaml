@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/My Courses/YOLOv8/Manually Labelled Images/dataset/train
+val: /content/drive/MyDrive/My Courses/YOLOv8/Manually Labelled Images/dataset/val
+
+nc: 4
+names: ['Car', 'Pedestrian', 'Bus', 'Crosswalk']
+
