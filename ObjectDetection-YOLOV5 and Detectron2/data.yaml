@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/HW4pt2/dataset/train/images
+val: /content/drive/MyDrive/HW4pt2/dataset/valid/images
+test: /content/drive/MyDrive/HW4pt2/dataset/test/images
+
+nc: 6
+names: ['Hammer', 'Pliers', 'Rope', 'Screw Driver', 'Tool Box', 'Wrench']
+
+roboflow:
+  workspace: pxrksuhn
+  project: aihub-aizqc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pxrksuhn/aihub-aizqc/dataset/1
